@@ -22,8 +22,8 @@ function propertyAuthoriser(username, password) {
 }
 
 const url = properties.get("solis.url")
-const username = properties.get("solis.username")
-const password = properties.get("solis.password")
+const username = properties.get("solis.rowenroger@aol.com")
+const password = properties.get("solis.123456")
 const maxSelectorRetries = properties.get("solis.maxSelectorRetries")
 
 async function scrapeData() {
